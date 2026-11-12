@@ -1,6 +1,5 @@
 # 🖨️ Integração Java com Impressora Elgin i9
-### *(Coloque aqui o nome do seu projeto)*
----
+Impressora De Notinha---
 
 ## 📘 Sobre o Projeto
 
